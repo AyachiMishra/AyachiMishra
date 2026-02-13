@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bio 👋
 
 <!--
 **AyachiMishra/AyachiMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
