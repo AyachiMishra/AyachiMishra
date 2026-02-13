@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergrad student of computer science engineering at IIT Delhi  - Abu dhabi. I love mathematics (specially probability and linear Allegra) and full stack system design. I have gained experience in machine learning specially in the tools like pandas, numpy, scikit learn, tensorflow. My hobbies include playing with cats 😸 and football ⚽.
+
+Recently, I have also executed projects Agentic AI to automate redundant workflows in full stack applications while also keeping guardrails to avoid automating important business decisions.
+
