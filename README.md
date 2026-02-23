@@ -19,6 +19,9 @@ I am an undergrad student studying computer science engineering at IIT Delhi  - 
 
 Recently, I have also executed projects involving Agentic AI to automate redundant workflows in full stack applications while also keeping guardrails to avoid automating important business decisions. Eg: [Project ADAN](https://github.com/AyachiMishra/Mashreq_Bank_Social_Intelligence_System_With_Agentic_Workflow)
 
+### View My Resume
+(https://github.com/AyachiMishra/AyachiMishra/blob/main/Ayachi_Mishra_s_Resume%20(2).pdf)
+
 ### Tech stack
 
 
