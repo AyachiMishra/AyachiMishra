@@ -22,6 +22,15 @@ Recently, I have been executing projects involving Agentic AI to automate redund
 ### View My Resume
 (https://github.com/AyachiMishra/AyachiMishra/blob/main/Ayachi_Mishra_s_Resume%20(2).pdf)
 
+### Contact
+
+**Emails**
+📧 Professional (IIT Delhi): 24a1cseb0005@iitd.ac.in  
+📧 Professional (IIT Delhi Abu Dhabi): 24a1cseb0005@iitdabudhabi.ac.ae  
+📧 Personal: ayachipadmanabh@gmail.com
+
+
+
 ### Tech stack
 
 
