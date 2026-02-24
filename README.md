@@ -24,7 +24,6 @@ Recently, I have been executing projects involving Agentic AI to automate redund
 
 ### Contact
 
-**Emails**
 📧 Professional (IIT Delhi): 24a1cseb0005@iitd.ac.in  
 📧 Professional (IIT Delhi Abu Dhabi): 24a1cseb0005@iitdabudhabi.ac.ae  
 📧 Personal: ayachipadmanabh@gmail.com
