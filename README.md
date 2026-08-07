@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergrad at IIT Delhi - Abu Dhabi campus.  
-Hobbies: Football, cats, anime, and so many others hehe.   
+I am an Undergrad starting 3rd year of college
+  
 I love contributing to open source and lately I have gained interest in cloud infrastructure and distributed systems and how they work.
+
+Hobbies: Football, cats, anime, and so many others hehe. 
+
 ### View My Resume
 [Resume](./Ayachi_Mishra_Resume.pdf)
 
