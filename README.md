@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Undergrad starting 3rd year of college
+I am an Undergrad entering 3rd year.
   
 I love contributing to open source and lately I have gained interest in cloud infrastructure and distributed systems and how they work.
 
