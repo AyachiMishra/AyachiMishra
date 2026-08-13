@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I am an Engineering Undergrad entering 3rd year of my college.
-  
-I love contributing to open source and lately I have gained interest in cloud infrastructure and distributed systems and how they work.
+love contributing to open source and lately I have gained interest in cloud infrastructure and distributed systems and how they work.
 
 Hobbies: Football, cats, anime, and so many others hehe. 
 
